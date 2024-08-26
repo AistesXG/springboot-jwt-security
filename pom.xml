@@ -22,7 +22,7 @@
 		<!-- jwt版本 -->
 		<jwt.version>0.9.0</jwt.version>
 		<!-- Swagger版本 -->
-		<swagger.version>2.9.2</swagger.version>
+		<swagger.version>2.10.0</swagger.version>
 	</properties>
 
 	<dependencies>
